@@ -13,6 +13,8 @@ namespace DesktopContactsApp
 
         private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
+            //Save Contact to Database implementation later.
+            Close();
         }
     }
 }
